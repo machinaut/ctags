@@ -1,0 +1,6 @@
+*.o
+config.*
+Makefile
+autom4te.cache/*
+configure
+ctags
