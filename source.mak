@@ -24,6 +24,7 @@ SOURCES = \
 	flex.c \
 	fortran.c \
 	get.c \
+	go.c \
 	html.c \
 	jscript.c \
 	keyword.c \
