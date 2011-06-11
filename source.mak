@@ -88,6 +88,7 @@ OBJECTS = \
 	flex.$(OBJEXT) \
 	fortran.$(OBJEXT) \
 	get.$(OBJEXT) \
+	go.$(OBJEXT) \
 	html.$(OBJEXT) \
 	jscript.$(OBJEXT) \
 	keyword.$(OBJEXT) \
